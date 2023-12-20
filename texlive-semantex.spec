@@ -1,6 +1,6 @@
 Name:		texlive-semantex
-Version:	64611
-Release:	2
+Version:	65679
+Release:	1
 Summary:	Semantic, keyval-based mathematics
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/semantex
