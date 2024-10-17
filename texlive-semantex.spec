@@ -3,7 +3,7 @@ Version:	65679
 Release:	1
 Summary:	Semantic, keyval-based mathematics
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/semantex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/semantex
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/semantex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/semantex.doc.r%{version}.tar.xz
